@@ -1,1 +1,1 @@
-# EpamExam
+# ExamJavascript
